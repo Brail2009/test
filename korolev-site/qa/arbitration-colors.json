@@ -1,0 +1,62 @@
+{
+  "report": [
+    {
+      "width": 1176,
+      "cards": [
+        {
+          "background": "rgb(232, 223, 213)",
+          "heading": "rgb(75, 69, 63)",
+          "label": "rgb(75, 69, 63)",
+          "headingContrast": 7.18,
+          "labelContrast": 7.18
+        },
+        {
+          "background": "rgb(75, 69, 63)",
+          "heading": "rgb(246, 243, 239)",
+          "label": "rgb(194, 177, 159)",
+          "headingContrast": 8.54,
+          "labelContrast": 4.54
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "cards": [
+        {
+          "background": "rgb(232, 223, 213)",
+          "heading": "rgb(75, 69, 63)",
+          "label": "rgb(75, 69, 63)",
+          "headingContrast": 7.18,
+          "labelContrast": 7.18
+        },
+        {
+          "background": "rgb(75, 69, 63)",
+          "heading": "rgb(246, 243, 239)",
+          "label": "rgb(194, 177, 159)",
+          "headingContrast": 8.54,
+          "labelContrast": 4.54
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "cards": [
+        {
+          "background": "rgb(232, 223, 213)",
+          "heading": "rgb(75, 69, 63)",
+          "label": "rgb(75, 69, 63)",
+          "headingContrast": 7.18,
+          "labelContrast": 7.18
+        },
+        {
+          "background": "rgb(75, 69, 63)",
+          "heading": "rgb(246, 243, 239)",
+          "label": "rgb(194, 177, 159)",
+          "headingContrast": 8.54,
+          "labelContrast": 4.54
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
